@@ -52,3 +52,24 @@ C:\Users\Joao\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo 
 C:\Users\Joao\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo Junto\Duolingo 2.0\obj\Debug\p.csproj.CopyComplete
 C:\Users\Joao\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo Junto\Duolingo 2.0\obj\Debug\Duolingo 2.0.exe
 C:\Users\Joao\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo Junto\Duolingo 2.0\obj\Debug\Duolingo 2.0.pdb
+C:\Users\Aluno\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo Junto\Duolingo 2.0\obj\Debug\p.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo Junto\Duolingo 2.0\obj\Debug\p.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo Junto\Duolingo 2.0\obj\Debug\Duolingo_2._0.frmAtualizarSenha.resources
+C:\Users\Aluno\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo Junto\Duolingo 2.0\obj\Debug\Duolingo_2._0.frmCadastro.resources
+C:\Users\Aluno\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo Junto\Duolingo 2.0\obj\Debug\Duolingo_2._0.frmConfig.resources
+C:\Users\Aluno\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo Junto\Duolingo 2.0\obj\Debug\Duolingo_2._0.frmEsqueciSenha.resources
+C:\Users\Aluno\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo Junto\Duolingo 2.0\obj\Debug\Duolingo_2._0.frmPrincipal.resources
+C:\Users\Aluno\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo Junto\Duolingo 2.0\obj\Debug\Duolingo_2._0.frmScore.resources
+C:\Users\Aluno\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo Junto\Duolingo 2.0\obj\Debug\Duolingo_2._0.frmLogin.resources
+C:\Users\Aluno\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo Junto\Duolingo 2.0\obj\Debug\p.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo Junto\Duolingo 2.0\obj\Debug\Duolingo 2.0.exe
+C:\Users\Aluno\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo Junto\Duolingo 2.0\obj\Debug\Duolingo 2.0.pdb
+C:\Users\Aluno\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo Junto\Duolingo 2.0\bin\Debug\Duolingo 2.0.exe.config
+C:\Users\Aluno\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo Junto\Duolingo 2.0\bin\Debug\Duolingo 2.0.exe
+C:\Users\Aluno\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo Junto\Duolingo 2.0\bin\Debug\Duolingo 2.0.pdb
+C:\Users\Aluno\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo Junto\Duolingo 2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aluno\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo Junto\Duolingo 2.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aluno\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo Junto\Duolingo 2.0\obj\Debug\Duolingo_2._0.Properties.Resources.resources
+C:\Users\Aluno\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo Junto\Duolingo 2.0\obj\Debug\p.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo Junto\Duolingo 2.0\obj\Debug\p.csproj.CopyComplete
+C:\Users\Aluno\Documents\GitHub\Projeto_Trilingo\Projeto_Trilingo2-main\Duolingo Junto\Duolingo 2.0\obj\Debug\Duolingo_2._0.frmDePesquisa.resources

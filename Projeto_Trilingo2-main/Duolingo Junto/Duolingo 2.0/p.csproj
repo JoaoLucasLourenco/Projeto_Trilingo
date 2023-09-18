@@ -72,6 +72,12 @@
     <Compile Include="frmCadastro.Designer.cs">
       <DependentUpon>frmCadastro.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmDePesquisa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDePesquisa.Designer.cs">
+      <DependentUpon>frmDePesquisa.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmEsqueciSenha.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -109,6 +115,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmConfig.resx">
       <DependentUpon>frmConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDePesquisa.resx">
+      <DependentUpon>frmDePesquisa.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmEsqueciSenha.resx">
       <DependentUpon>frmEsqueciSenha.cs</DependentUpon>

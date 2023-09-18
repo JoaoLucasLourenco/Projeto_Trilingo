@@ -82,7 +82,7 @@ namespace Duolingo_2._0
                 new frmLogin().ShowDialog();
             }
         }
-        
 
+        
     }
 }

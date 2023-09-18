@@ -324,7 +324,12 @@ namespace Duolingo_2._0
 
         private void highscore(int x)
         {
-            cfg.Nome = "Giovani";
+            User user = new User();
+            foreach(var users in Program.listaUser)
+            {
+                user.Nome = users.Nome;
+            }
+            cfg.Nome = user.Nome;
             if (x > (Settings.Default.hs))
             {
                 int aux = Settings.Default.hs;
@@ -525,7 +530,20 @@ namespace Duolingo_2._0
             if (sairOuNao == DialogResult.OK)
             {
                 this.Hide();
-                //Program.listaUser.Clear();
+                Program.listaUser.Clear();
+                new frmLogin().ShowDialog();
+            }
+            else
+                return;
+        }
+
+        private void formulárioDePesquisaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            DialogResult sairOuNao = MessageBox.Show("Deseja mesmo sair?", "Alerta de saída", MessageBoxButtons.OKCancel);
+            if (sairOuNao == DialogResult.OK)
+            {
+                this.Hide();
+                Program.listaUser.Clear();
                 new frmLogin().ShowDialog();
             }
             else
