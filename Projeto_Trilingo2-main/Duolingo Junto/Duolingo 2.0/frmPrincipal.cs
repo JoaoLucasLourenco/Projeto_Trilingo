@@ -459,7 +459,6 @@ namespace Duolingo_2._0
             btnJ.Location = new Point(540, 376);
             btnC.Location = new Point(540, 418);
             btnT.Location = new Point(540, 460);
-            btnS.Location = new Point(540, 502);
             btnE.Location = new Point(540, 376);
             pictureBox2.Location = new Point(447, 41);
             pictureBox3.Location = new Point(447, 41);
@@ -492,9 +491,7 @@ namespace Duolingo_2._0
                 btnJ.Show();
                 btnC.Show();
                 btnT.Show();
-                btnS.Show();
                 btnhs.Hide();
-
                 pictureBox3.Hide();
                 btnR.Hide();
                 pgb.Hide();
@@ -539,12 +536,11 @@ namespace Duolingo_2._0
 
         private void formulárioDePesquisaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            DialogResult sairOuNao = MessageBox.Show("Deseja mesmo sair?", "Alerta de saída", MessageBoxButtons.OKCancel);
+            DialogResult sairOuNao = MessageBox.Show("Deseja mesmo ir ao formulário de pesquisa?", "Alerta de saída", MessageBoxButtons.OKCancel);
             if (sairOuNao == DialogResult.OK)
             {
                 this.Hide();
-                Program.listaUser.Clear();
-                new frmLogin().ShowDialog();
+                new frmDePesquisa().ShowDialog();
             }
             else
                 return;
@@ -555,8 +551,6 @@ namespace Duolingo_2._0
             if (Opacity == 0.20000000000000007)
             {
                 btnJ.Hide();
-                btnC.Hide();
-                btnS.Hide();
                 btnT.Hide();
                 pictureBox2.Hide();
                 btnR.Hide();

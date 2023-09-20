@@ -32,7 +32,6 @@
             this.btnJ = new System.Windows.Forms.Button();
             this.btnT = new System.Windows.Forms.Button();
             this.btnC = new System.Windows.Forms.Button();
-            this.btnS = new System.Windows.Forms.Button();
             this.btnE = new System.Windows.Forms.Button();
             this.btnR = new System.Windows.Forms.Button();
             this.btnM = new System.Windows.Forms.Button();
@@ -60,9 +59,10 @@
             // 
             // btnJ
             // 
-            this.btnJ.Location = new System.Drawing.Point(168, 194);
+            this.btnJ.Location = new System.Drawing.Point(224, 239);
+            this.btnJ.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnJ.Name = "btnJ";
-            this.btnJ.Size = new System.Drawing.Size(118, 36);
+            this.btnJ.Size = new System.Drawing.Size(157, 44);
             this.btnJ.TabIndex = 0;
             this.btnJ.Text = "Jogar";
             this.btnJ.UseVisualStyleBackColor = true;
@@ -70,9 +70,10 @@
             // 
             // btnT
             // 
-            this.btnT.Location = new System.Drawing.Point(168, 278);
+            this.btnT.Location = new System.Drawing.Point(224, 342);
+            this.btnT.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnT.Name = "btnT";
-            this.btnT.Size = new System.Drawing.Size(118, 36);
+            this.btnT.Size = new System.Drawing.Size(157, 44);
             this.btnT.TabIndex = 1;
             this.btnT.Text = "Como jogar";
             this.btnT.UseVisualStyleBackColor = true;
@@ -80,29 +81,21 @@
             // 
             // btnC
             // 
-            this.btnC.Location = new System.Drawing.Point(168, 236);
+            this.btnC.Location = new System.Drawing.Point(224, 290);
+            this.btnC.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnC.Name = "btnC";
-            this.btnC.Size = new System.Drawing.Size(118, 36);
+            this.btnC.Size = new System.Drawing.Size(157, 44);
             this.btnC.TabIndex = 2;
             this.btnC.Text = "Configurações";
             this.btnC.UseVisualStyleBackColor = true;
             this.btnC.Click += new System.EventHandler(this.btnC_Click);
             // 
-            // btnS
-            // 
-            this.btnS.Location = new System.Drawing.Point(168, 320);
-            this.btnS.Name = "btnS";
-            this.btnS.Size = new System.Drawing.Size(118, 36);
-            this.btnS.TabIndex = 3;
-            this.btnS.Text = "Sair";
-            this.btnS.UseVisualStyleBackColor = true;
-            this.btnS.Click += new System.EventHandler(this.btnS_Click);
-            // 
             // btnE
             // 
-            this.btnE.Location = new System.Drawing.Point(540, 376);
+            this.btnE.Location = new System.Drawing.Point(720, 463);
+            this.btnE.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnE.Name = "btnE";
-            this.btnE.Size = new System.Drawing.Size(118, 36);
+            this.btnE.Size = new System.Drawing.Size(157, 44);
             this.btnE.TabIndex = 4;
             this.btnE.Text = "Enviar";
             this.btnE.UseVisualStyleBackColor = true;
@@ -111,9 +104,10 @@
             // 
             // btnR
             // 
-            this.btnR.Location = new System.Drawing.Point(168, 412);
+            this.btnR.Location = new System.Drawing.Point(224, 507);
+            this.btnR.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnR.Name = "btnR";
-            this.btnR.Size = new System.Drawing.Size(118, 36);
+            this.btnR.Size = new System.Drawing.Size(157, 44);
             this.btnR.TabIndex = 5;
             this.btnR.Text = "Tentar Novamente";
             this.btnR.UseVisualStyleBackColor = true;
@@ -122,9 +116,10 @@
             // 
             // btnM
             // 
-            this.btnM.Location = new System.Drawing.Point(168, 454);
+            this.btnM.Location = new System.Drawing.Point(224, 559);
+            this.btnM.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnM.Name = "btnM";
-            this.btnM.Size = new System.Drawing.Size(118, 36);
+            this.btnM.Size = new System.Drawing.Size(157, 44);
             this.btnM.TabIndex = 6;
             this.btnM.Text = "Menu";
             this.btnM.UseVisualStyleBackColor = true;
@@ -133,9 +128,10 @@
             // 
             // btnhs
             // 
-            this.btnhs.Location = new System.Drawing.Point(168, 496);
+            this.btnhs.Location = new System.Drawing.Point(224, 610);
+            this.btnhs.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnhs.Name = "btnhs";
-            this.btnhs.Size = new System.Drawing.Size(118, 36);
+            this.btnhs.Size = new System.Drawing.Size(157, 44);
             this.btnhs.TabIndex = 7;
             this.btnhs.Text = "Highcore";
             this.btnhs.UseVisualStyleBackColor = true;
@@ -144,18 +140,20 @@
             // 
             // lblF
             // 
-            this.lblF.Location = new System.Drawing.Point(415, 284);
+            this.lblF.Location = new System.Drawing.Point(553, 350);
+            this.lblF.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.lblF.Name = "lblF";
             this.lblF.ReadOnly = true;
-            this.lblF.Size = new System.Drawing.Size(356, 20);
+            this.lblF.Size = new System.Drawing.Size(473, 22);
             this.lblF.TabIndex = 8;
             this.lblF.Visible = false;
             // 
             // txtbR
             // 
-            this.txtbR.Location = new System.Drawing.Point(415, 350);
+            this.txtbR.Location = new System.Drawing.Point(553, 431);
+            this.txtbR.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtbR.Name = "txtbR";
-            this.txtbR.Size = new System.Drawing.Size(356, 20);
+            this.txtbR.Size = new System.Drawing.Size(473, 22);
             this.txtbR.TabIndex = 9;
             this.txtbR.Visible = false;
             this.txtbR.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtbR_KeyPress);
@@ -163,9 +161,10 @@
             // pictureBox3
             // 
             this.pictureBox3.Image = global::Duolingo_2._0.Properties.Resources.duofeliz;
-            this.pictureBox3.Location = new System.Drawing.Point(539, 103);
+            this.pictureBox3.Location = new System.Drawing.Point(719, 127);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(199, 175);
+            this.pictureBox3.Size = new System.Drawing.Size(265, 215);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox3.TabIndex = 10;
             this.pictureBox3.TabStop = false;
@@ -173,9 +172,10 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = global::Duolingo_2._0.Properties.Resources.trilingo;
-            this.pictureBox2.Location = new System.Drawing.Point(415, 405);
+            this.pictureBox2.Location = new System.Drawing.Point(553, 498);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(314, 271);
+            this.pictureBox2.Size = new System.Drawing.Size(419, 334);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 11;
             this.pictureBox2.TabStop = false;
@@ -194,9 +194,10 @@
             // 
             // pgb
             // 
-            this.pgb.Location = new System.Drawing.Point(-2, 664);
+            this.pgb.Location = new System.Drawing.Point(-3, 817);
+            this.pgb.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pgb.Name = "pgb";
-            this.pgb.Size = new System.Drawing.Size(1267, 23);
+            this.pgb.Size = new System.Drawing.Size(1689, 28);
             this.pgb.TabIndex = 12;
             this.pgb.Visible = false;
             // 
@@ -204,9 +205,10 @@
             // 
             this.lblQ.AutoSize = true;
             this.lblQ.Font = new System.Drawing.Font("Segoe UI", 21.75F, System.Drawing.FontStyle.Bold);
-            this.lblQ.Location = new System.Drawing.Point(461, 60);
+            this.lblQ.Location = new System.Drawing.Point(615, 74);
+            this.lblQ.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblQ.Name = "lblQ";
-            this.lblQ.Size = new System.Drawing.Size(268, 40);
+            this.lblQ.Size = new System.Drawing.Size(336, 50);
             this.lblQ.TabIndex = 13;
             this.lblQ.Text = "Traduza essa frase";
             this.lblQ.Visible = false;
@@ -219,9 +221,10 @@
             // ex
             // 
             this.ex.AutoSize = true;
-            this.ex.Location = new System.Drawing.Point(12, 9);
+            this.ex.Location = new System.Drawing.Point(16, 11);
+            this.ex.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.ex.Name = "ex";
-            this.ex.Size = new System.Drawing.Size(0, 13);
+            this.ex.Size = new System.Drawing.Size(0, 16);
             this.ex.TabIndex = 14;
             // 
             // menuStrip2
@@ -233,17 +236,17 @@
             this.menuPrincipalToolStripMenuItem,
             this.sairToolStripMenuItem,
             this.formulárioDePesquisaToolStripMenuItem});
-            this.menuStrip2.Location = new System.Drawing.Point(824, 0);
+            this.menuStrip2.Location = new System.Drawing.Point(1121, 0);
             this.menuStrip2.Name = "menuStrip2";
-            this.menuStrip2.Padding = new System.Windows.Forms.Padding(4, 2, 0, 2);
-            this.menuStrip2.Size = new System.Drawing.Size(204, 609);
+            this.menuStrip2.Padding = new System.Windows.Forms.Padding(5, 2, 0, 2);
+            this.menuStrip2.Size = new System.Drawing.Size(250, 750);
             this.menuStrip2.TabIndex = 16;
             this.menuStrip2.Text = "menuStrip2";
             // 
             // menuDeAçõesToolStripMenuItem
             // 
             this.menuDeAçõesToolStripMenuItem.Name = "menuDeAçõesToolStripMenuItem";
-            this.menuDeAçõesToolStripMenuItem.Size = new System.Drawing.Size(195, 4);
+            this.menuDeAçõesToolStripMenuItem.Size = new System.Drawing.Size(239, 4);
             // 
             // menuPrincipalToolStripMenuItem
             // 
@@ -251,7 +254,7 @@
             this.menuPrincipalToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.menuPrincipalToolStripMenuItem.ForeColor = System.Drawing.SystemColors.Info;
             this.menuPrincipalToolStripMenuItem.Name = "menuPrincipalToolStripMenuItem";
-            this.menuPrincipalToolStripMenuItem.Size = new System.Drawing.Size(195, 25);
+            this.menuPrincipalToolStripMenuItem.Size = new System.Drawing.Size(239, 32);
             this.menuPrincipalToolStripMenuItem.Text = "LogOut";
             this.menuPrincipalToolStripMenuItem.Click += new System.EventHandler(this.menuPrincipalToolStripMenuItem_Click);
             // 
@@ -261,7 +264,7 @@
             this.sairToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.sairToolStripMenuItem.ForeColor = System.Drawing.SystemColors.Info;
             this.sairToolStripMenuItem.Name = "sairToolStripMenuItem";
-            this.sairToolStripMenuItem.Size = new System.Drawing.Size(195, 25);
+            this.sairToolStripMenuItem.Size = new System.Drawing.Size(239, 32);
             this.sairToolStripMenuItem.Text = "Sair";
             this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
             // 
@@ -271,15 +274,15 @@
             this.formulárioDePesquisaToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.formulárioDePesquisaToolStripMenuItem.ForeColor = System.Drawing.SystemColors.Info;
             this.formulárioDePesquisaToolStripMenuItem.Name = "formulárioDePesquisaToolStripMenuItem";
-            this.formulárioDePesquisaToolStripMenuItem.Size = new System.Drawing.Size(195, 25);
+            this.formulárioDePesquisaToolStripMenuItem.Size = new System.Drawing.Size(239, 32);
             this.formulárioDePesquisaToolStripMenuItem.Text = "Formulário de Pesquisa";
             this.formulárioDePesquisaToolStripMenuItem.Click += new System.EventHandler(this.formulárioDePesquisaToolStripMenuItem_Click);
             // 
             // frmPrincipal
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1028, 609);
+            this.ClientSize = new System.Drawing.Size(1371, 750);
             this.Controls.Add(this.ex);
             this.Controls.Add(this.lblQ);
             this.Controls.Add(this.pgb);
@@ -291,11 +294,11 @@
             this.Controls.Add(this.btnM);
             this.Controls.Add(this.btnR);
             this.Controls.Add(this.btnE);
-            this.Controls.Add(this.btnS);
             this.Controls.Add(this.btnC);
             this.Controls.Add(this.btnT);
             this.Controls.Add(this.btnJ);
             this.Controls.Add(this.menuStrip2);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "frmPrincipal";
             this.Text = "Principal";
             this.Load += new System.EventHandler(this.frmPrincipal_Load);
@@ -313,7 +316,6 @@
         private System.Windows.Forms.Button btnJ;
         private System.Windows.Forms.Button btnT;
         private System.Windows.Forms.Button btnC;
-        private System.Windows.Forms.Button btnS;
         private System.Windows.Forms.Button btnE;
         private System.Windows.Forms.Button btnR;
         private System.Windows.Forms.Button btnM;
