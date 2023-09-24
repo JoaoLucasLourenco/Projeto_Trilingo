@@ -58,7 +58,6 @@ namespace SendEmail
 
             return false;
         }
-
         private void SendEmailBySmtp(MailMessage message)
         {
             SmtpClient smtpClient = new SmtpClient("smtp.office365.com");

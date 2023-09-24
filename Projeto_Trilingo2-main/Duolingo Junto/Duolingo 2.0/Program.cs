@@ -18,7 +18,7 @@ namespace Duolingo_2._0
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmLogin());
+            Application.Run(new frmDePesquisa());
 
         }
         public static List<User> listaUser = new List<User>();

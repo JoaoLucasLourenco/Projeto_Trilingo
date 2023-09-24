@@ -54,10 +54,10 @@ namespace Duolingo_2._0
 
                 string foiDificil = rdBtnFacilUsoSim.Checked ? "Sim" : "Não";
 
-                string avaliacao = $"Meu nome é {txtBoxNome.Text}\n" +
-                    $"Nascido(a) em {dateTimePicker.Value.ToString("dd-MM-yyyy")}\n" +
-                    $"Tive dificuldade em utilizar o app? {foiDificil}\n" +
-                    $"Minha maior dificuldade foi: {dificuldadeUso}\n" +
+                string avaliacao = $"Meu nome é {txtBoxNome.Text}<br>" +
+                    $"Nascido(a) em {dateTimePicker.Value.ToString("dd-MM-yyyy")}<br>" +
+                    $"Tive dificuldade em utilizar o app? {foiDificil}<br>" +
+                    $"Minha maior dificuldade foi: {dificuldadeUso}<br>" +
                     $"Avaliação: {txtAvaliacao.Text}";
                 emailSender.SendEmail(
 
