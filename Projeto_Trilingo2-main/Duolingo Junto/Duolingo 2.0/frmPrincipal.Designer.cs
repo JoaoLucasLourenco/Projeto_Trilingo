@@ -60,7 +60,7 @@
             // btnJ
             // 
             this.btnJ.Location = new System.Drawing.Point(224, 239);
-            this.btnJ.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnJ.Margin = new System.Windows.Forms.Padding(4);
             this.btnJ.Name = "btnJ";
             this.btnJ.Size = new System.Drawing.Size(157, 44);
             this.btnJ.TabIndex = 0;
@@ -71,7 +71,7 @@
             // btnT
             // 
             this.btnT.Location = new System.Drawing.Point(224, 342);
-            this.btnT.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnT.Margin = new System.Windows.Forms.Padding(4);
             this.btnT.Name = "btnT";
             this.btnT.Size = new System.Drawing.Size(157, 44);
             this.btnT.TabIndex = 1;
@@ -82,7 +82,7 @@
             // btnC
             // 
             this.btnC.Location = new System.Drawing.Point(224, 290);
-            this.btnC.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnC.Margin = new System.Windows.Forms.Padding(4);
             this.btnC.Name = "btnC";
             this.btnC.Size = new System.Drawing.Size(157, 44);
             this.btnC.TabIndex = 2;
@@ -93,7 +93,7 @@
             // btnE
             // 
             this.btnE.Location = new System.Drawing.Point(720, 463);
-            this.btnE.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnE.Margin = new System.Windows.Forms.Padding(4);
             this.btnE.Name = "btnE";
             this.btnE.Size = new System.Drawing.Size(157, 44);
             this.btnE.TabIndex = 4;
@@ -105,7 +105,7 @@
             // btnR
             // 
             this.btnR.Location = new System.Drawing.Point(224, 507);
-            this.btnR.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnR.Margin = new System.Windows.Forms.Padding(4);
             this.btnR.Name = "btnR";
             this.btnR.Size = new System.Drawing.Size(157, 44);
             this.btnR.TabIndex = 5;
@@ -117,7 +117,7 @@
             // btnM
             // 
             this.btnM.Location = new System.Drawing.Point(224, 559);
-            this.btnM.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnM.Margin = new System.Windows.Forms.Padding(4);
             this.btnM.Name = "btnM";
             this.btnM.Size = new System.Drawing.Size(157, 44);
             this.btnM.TabIndex = 6;
@@ -129,7 +129,7 @@
             // btnhs
             // 
             this.btnhs.Location = new System.Drawing.Point(224, 610);
-            this.btnhs.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnhs.Margin = new System.Windows.Forms.Padding(4);
             this.btnhs.Name = "btnhs";
             this.btnhs.Size = new System.Drawing.Size(157, 44);
             this.btnhs.TabIndex = 7;
@@ -141,7 +141,7 @@
             // lblF
             // 
             this.lblF.Location = new System.Drawing.Point(553, 350);
-            this.lblF.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.lblF.Margin = new System.Windows.Forms.Padding(4);
             this.lblF.Name = "lblF";
             this.lblF.ReadOnly = true;
             this.lblF.Size = new System.Drawing.Size(473, 22);
@@ -151,7 +151,7 @@
             // txtbR
             // 
             this.txtbR.Location = new System.Drawing.Point(553, 431);
-            this.txtbR.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtbR.Margin = new System.Windows.Forms.Padding(4);
             this.txtbR.Name = "txtbR";
             this.txtbR.Size = new System.Drawing.Size(473, 22);
             this.txtbR.TabIndex = 9;
@@ -162,7 +162,7 @@
             // 
             this.pictureBox3.Image = global::Duolingo_2._0.Properties.Resources.duofeliz;
             this.pictureBox3.Location = new System.Drawing.Point(719, 127);
-            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(265, 215);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -173,7 +173,7 @@
             // 
             this.pictureBox2.Image = global::Duolingo_2._0.Properties.Resources.trilingo;
             this.pictureBox2.Location = new System.Drawing.Point(553, 498);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(419, 334);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -195,7 +195,7 @@
             // pgb
             // 
             this.pgb.Location = new System.Drawing.Point(-3, 817);
-            this.pgb.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pgb.Margin = new System.Windows.Forms.Padding(4);
             this.pgb.Name = "pgb";
             this.pgb.Size = new System.Drawing.Size(1689, 28);
             this.pgb.TabIndex = 12;
@@ -236,7 +236,7 @@
             this.menuPrincipalToolStripMenuItem,
             this.sairToolStripMenuItem,
             this.formulárioDePesquisaToolStripMenuItem});
-            this.menuStrip2.Location = new System.Drawing.Point(1121, 0);
+            this.menuStrip2.Location = new System.Drawing.Point(1374, 0);
             this.menuStrip2.Name = "menuStrip2";
             this.menuStrip2.Padding = new System.Windows.Forms.Padding(5, 2, 0, 2);
             this.menuStrip2.Size = new System.Drawing.Size(250, 750);
@@ -282,7 +282,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1371, 750);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
+            this.ClientSize = new System.Drawing.Size(1624, 750);
             this.Controls.Add(this.ex);
             this.Controls.Add(this.lblQ);
             this.Controls.Add(this.pgb);
@@ -298,7 +299,7 @@
             this.Controls.Add(this.btnT);
             this.Controls.Add(this.btnJ);
             this.Controls.Add(this.menuStrip2);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmPrincipal";
             this.Text = "Principal";
             this.Load += new System.EventHandler(this.frmPrincipal_Load);

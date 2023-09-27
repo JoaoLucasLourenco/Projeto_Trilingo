@@ -556,9 +556,9 @@ namespace Duolingo_2._0
                 btnR.Hide();
                 btnM.Hide();
                 btnhs.Hide();
+                btnC.Hide();
 
                 btnE.Show();
-                lblF.Show();
                 lblQ.Show();
                 txtbR.Show();
                 pgb.Show();

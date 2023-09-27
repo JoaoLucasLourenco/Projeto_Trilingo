@@ -18,7 +18,7 @@ namespace Duolingo_2._0
             "I’m too tired",
             "I’m hungry",
             "Can you switch the light on Camila?",
-            "Nice to meet you too João!",
+            "Nice to meet you too João",
         };
         private string[] resposta =
         {
@@ -26,7 +26,7 @@ namespace Duolingo_2._0
             "Estou muito cansado",
             "Estou com fome",
             "Camila, você poderia ligar as luzes?",
-            "Prazer em te conhecer também João!",
+            "Prazer em te conhecer também João",
         };
 
         // PERGUNTA E RESPOSTA EM INGLES DIFIFULDADE MEDIO
