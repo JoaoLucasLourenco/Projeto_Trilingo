@@ -50,7 +50,7 @@ namespace Duolingo_2._0
         
         private void btnCadastrar_Click(object sender, EventArgs e)
         {
-            var emailSender = new Email("smtp.office365.com", "trilingo.verification@outlook.com", "trilingoEmail123");
+            var emailSender = new Email("smtp.office365.com", "email que irá enviar a msg", "senha do email");
             
             if (txtLoginSenha.Text== String.Empty || txtLoginNome.Text == String.Empty || txtCadastroTel.Text == String.Empty)
             {
