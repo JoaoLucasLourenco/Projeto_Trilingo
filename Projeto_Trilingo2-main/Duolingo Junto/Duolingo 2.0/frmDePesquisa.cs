@@ -50,7 +50,7 @@ namespace Duolingo_2._0
             }
             else
             {
-                var emailSender = new Email("smtp.office365.com", "trilingo.verification@outlook.com", "trilingoEmail123");
+                var emailSender = new Email("smtp.office365.com", "emaila ser enviado", "senha do email");
 
                 string foiDificil = rdBtnFacilUsoSim.Checked ? "Sim" : "Não";
 
