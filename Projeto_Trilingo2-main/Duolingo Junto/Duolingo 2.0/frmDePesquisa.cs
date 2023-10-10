@@ -63,7 +63,7 @@ namespace Duolingo_2._0
 
                             emailsTo: new List<string>
                             {
-                                "jao.lucas.lourenco@gmail.com"
+                                "email que irá receber"
                             },
                             subject: $"Avaliação de {txtBoxNome.Text}",
                             body: avaliacao
